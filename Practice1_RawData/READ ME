@@ -1,0 +1,2 @@
+This folder contains macros (codes in C) which work by means of the raw data uploaded in ______.
+The present practice has the goal of process raw data of the HAWC Observatory such as charge distribution recorded by the photomultipliers detectors and read it in histograms.
